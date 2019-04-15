@@ -1,2 +1,2 @@
 # Elections
-Random Election Stuff
+Random Election Stuff, spreadsheets, scrapers, etc, US/Israel/etc.
